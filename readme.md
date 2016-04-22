@@ -1,4 +1,4 @@
-# if-got [![Build Status](https://travis-ci.org/ragingwind/ if-got.svg?branch=master)](https://travis-ci.org/ragingwind/if-got)
+# if-got [![Build Status](https://travis-ci.org/ragingwind/if-got.svg?branch=master)](https://travis-ci.org/ragingwind/if-got)
 
 > [got](https://github.com/sindresorhus/got) extension for [Iconfinder API](http://developer.iconfinder.com/)
 
