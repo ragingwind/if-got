@@ -33,7 +33,7 @@ ifGot('https://api.iconfinder.com/v2/icons/search', {query: {query: 'app'}}).the
 
 ## API
 
-Supporting APIs same as [got](https://github.com/sindresorhus/got) even stream API, but `GET` method only is only supported now.
+Supporting APIs same as [got](https://github.com/sindresorhus/got) even stream API, but `GET` method is only supported now.
 
 ## License
 
