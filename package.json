@@ -1,6 +1,6 @@
 {
   "name": "if-got",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "got extension for Iconfinder API",
   "license": "MIT",
   "repository": "ragingwind/if-got",
