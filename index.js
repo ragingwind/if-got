@@ -53,8 +53,6 @@ function icGot(path, opts) {
 		return got.stream(url, opts);
 	}
 
-	console.log(url, opts);
-
 	return got(url, opts);
 }
 
