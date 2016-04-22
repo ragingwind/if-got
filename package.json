@@ -1,0 +1,38 @@
+{
+  "name": "if-got",
+  "version": "0.0.0",
+  "description": "got extension for Iconfinder API",
+  "license": "MIT",
+  "repository": "ragingwind/if-got",
+  "author": {
+    "name": "ragingwind",
+    "email": "ragingwind@gmail.com",
+    "url": "ragingwind.me"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "got",
+    "icon",
+    "iconfinder"
+  ],
+  "dependencies": {
+    "got": "^6.3.0"
+  },
+  "devDependencies": {
+    "ava": "^0.14.0",
+    "xo": "^0.14.0"
+  },
+  "xo": {
+    "rules": {
+      "camelcase": 0
+    }
+  }
+}
